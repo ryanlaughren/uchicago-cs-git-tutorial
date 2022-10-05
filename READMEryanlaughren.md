@@ -1,2 +1,3 @@
 Ryan Laughren ryanlaughren
-UCHicago CS Git Tutorial
+UChicago CS Git Tutorial
+Git is pretty cool!
